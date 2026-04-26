@@ -1,0 +1,19 @@
+"neighbourhood_id","neighbourhood_name","school_zone","is_near_public_transit","is_pet_friendly","has_children_playground"
+1,"Westville","New Haven Zone B",False,False,False
+2,"Black Rock","Fairfield Zone D",True,False,False
+3,"Downtown Stamford","Fairfield Zone A",False,True,True
+4,"South Norwalk","Fairfield Zone C",True,False,False
+5,"East Rock","New Haven Zone A",True,True,False
+6,"Old Greenwich","Fairfield Zone B",True,True,False
+7,"The Waterfront","Hudson Zone B",True,False,False
+8,"Edgewater Riverside","Bergen Zone B",False,True,False
+9,"Downtown Jersey City","Hudson Zone A",True,True,True
+10,"Hoboken South","Hudson Zone C",True,False,False
+11,"Ironbound","Essex Zone A",True,False,False
+12,"Fort Lee Central","Bergen Zone A",False,True,True
+13,"Park Slope","District 15",False,True,False
+14,"Long Island City","District 30",True,False,False
+15,"Upper West Side","District 3",True,False,True
+16,"Riverdale","District 10",True,True,True
+17,"Astoria","District 30",True,True,False
+18,"Williamsburg","District 14",False,True,False
