@@ -6,7 +6,7 @@ This project aims to develop a data management solution for a real estate busine
 ## Repository Contents
 
 - **ER-diagram.pdf**  
-  Entity-relationship diagram of the database schema.
+  [Entity-relationship diagram](https://github.com/lmj121666/DreamhomesNYC-project/blob/e8ddabe9530a5b281540aed7b41c409f8f5c1abf/ER-diagram.pdf) of the database schema.
 
 - **SCHEMA.sql**  
   SQL file defining the database schema.
