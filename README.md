@@ -3,10 +3,10 @@
 
 ## Team Members
 
-- **April Liu** — ql2578@columbia.edu  
-- **Mengjie Liu** — ml5384@columbia.edu  
-- **Chun-Wei Hsu** — ch4004@columbia.edu  
-- **Zhenyuan Wei** — zw3152@columbia.edu  
+**April Liu** (ql2578@columbia.edu)  
+**Mengjie Liu** (ml5384@columbia.edu)  
+**Chun-Wei Hsu** (ch4004@columbia.edu)
+**Zhenyuan Wei** (zw3152@columbia.edu)
 
 This project aims to develop a data management solution for a real estate business operating in the Tri-State area (NY, NJ, CT).
 
