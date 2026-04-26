@@ -15,7 +15,7 @@ This project aims to develop a data management solution for a real estate busine
   [Notebook](https://github.com/lmj121666/DreamhomesNYC-project/blob/029b8d9d529cd6b44cc405ae1db8701ddbdc7ef4/data_generator.ipynb) used to generate the synthetic data.
 
 - **dreamhomes_raw_csv_v2 folder**  
-  Raw synthetic data generated using `data_generator.ipynb`.
+  Raw synthetic [data](https://github.com/lmj121666/DreamhomesNYC-project/tree/2eb76bed259888ff21fb9d3019c8c14eed1ebdcb/data/dreamhomes_raw_csv_v2) generated using `data_generator.ipynb`.
 
 - **etl_load_to_postgres.ipynb**  
   [Notebook](https://github.com/lmj121666/DreamhomesNYC-project/blob/8743ed4d02052afe3642d193bb1f591723bb9ea0/etl_load_to_postgres.ipynb) used to transform and load raw data into the database, which is defined using `SCHEMA.sql`.
