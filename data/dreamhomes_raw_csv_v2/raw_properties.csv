@@ -1,0 +1,91 @@
+property_full_address,property_street_address,property_city,property_state,neighbourhood_name,school_zone,is_near_public_transit,is_pet_friendly,has_children_playground,property_type,bedrooms,bathrooms,square_feet,year_built
+"606 Nancy Spur, Bridgeport, CT",606 Nancy Spur,Bridgeport,CT,Westville,New Haven Zone B,False,False,False,Condo,5,2,1721,1957
+"701 Tracy Ports, Bridgeport, CT",701 Tracy Ports,Bridgeport,CT,Black Rock,Fairfield Zone D,True,False,False,Condo,1,4,4195,2012
+"760 Chang Lodge, Bridgeport, CT",760 Chang Lodge,Bridgeport,CT,Downtown Stamford,Fairfield Zone A,False,True,True,Townhouse,2,2,2587,1937
+"794 Whitney Village, Bridgeport, CT",794 Whitney Village,Bridgeport,CT,South Norwalk,Fairfield Zone C,True,False,False,House,1,2,3621,1980
+"806 Jennifer Mews, Bridgeport, CT",806 Jennifer Mews,Bridgeport,CT,Westville,New Haven Zone B,True,False,False,House,1,2,3232,1971
+"602 Adriana Cape, Greenwich, CT",602 Adriana Cape,Greenwich,CT,East Rock,New Haven Zone A,True,True,False,House,5,3,2847,1936
+"614 Coffey Lock, Greenwich, CT",614 Coffey Lock,Greenwich,CT,Westville,New Haven Zone B,True,True,False,House,2,3,3260,1927
+"617 Allen Mills, Greenwich, CT",617 Allen Mills,Greenwich,CT,Downtown Stamford,Fairfield Zone A,True,True,False,Condo,1,2,1562,1964
+"640 Brian Avenue, Greenwich, CT",640 Brian Avenue,Greenwich,CT,East Rock,New Haven Zone A,True,True,False,House,2,1,2068,1988
+"666 Romero Wells, Greenwich, CT",666 Romero Wells,Greenwich,CT,Black Rock,Fairfield Zone D,True,True,False,House,3,4,3633,1980
+"713 Tran Course, Greenwich, CT",713 Tran Course,Greenwich,CT,Black Rock,Fairfield Zone D,True,True,True,Apartment,2,2,1227,1948
+"749 David Mill, Greenwich, CT",749 David Mill,Greenwich,CT,South Norwalk,Fairfield Zone C,True,False,True,Townhouse,2,3,3903,1919
+"782 Prince Stream, Greenwich, CT",782 Prince Stream,Greenwich,CT,East Rock,New Haven Zone A,True,True,True,House,3,1,3175,1922
+"786 Lauren Junctions, Greenwich, CT",786 Lauren Junctions,Greenwich,CT,Westville,New Haven Zone B,True,True,False,House,1,2,3566,2008
+"810 Johns Ports, Greenwich, CT",810 Johns Ports,Greenwich,CT,East Rock,New Haven Zone A,True,True,False,Condo,3,3,2987,2003
+"591 Scott Inlet, New Haven, CT",591 Scott Inlet,New Haven,CT,Downtown Stamford,Fairfield Zone A,True,True,False,Condo,1,1,1293,2014
+"663 Angela Landing, New Haven, CT",663 Angela Landing,New Haven,CT,Old Greenwich,Fairfield Zone B,True,True,False,Townhouse,3,1,1166,2009
+"726 Moore Mission, New Haven, CT",726 Moore Mission,New Haven,CT,Westville,New Haven Zone B,True,False,False,Apartment,3,2,2657,1959
+"738 Warren Terrace, New Haven, CT",738 Warren Terrace,New Haven,CT,East Rock,New Haven Zone A,False,False,True,Townhouse,4,3,3074,1997
+"740 Christopher Courts, New Haven, CT",740 Christopher Courts,New Haven,CT,Old Greenwich,Fairfield Zone B,True,True,False,Apartment,2,2,834,1934
+"568 Davis Fort, Norwalk, CT",568 Davis Fort,Norwalk,CT,Westville,New Haven Zone B,True,True,True,House,5,1,3475,1970
+"581 Walsh Fields, Norwalk, CT",581 Walsh Fields,Norwalk,CT,Downtown Stamford,Fairfield Zone A,False,True,True,Commercial,0,3,3680,1990
+"608 Jeffrey Gardens, Norwalk, CT",608 Jeffrey Gardens,Norwalk,CT,South Norwalk,Fairfield Zone C,True,False,False,House,3,2,2834,1949
+"619 Roberts Corners, Norwalk, CT",619 Roberts Corners,Norwalk,CT,Westville,New Haven Zone B,True,True,True,Condo,4,3,2729,1927
+"632 Gibbs Court, Norwalk, CT",632 Gibbs Court,Norwalk,CT,Downtown Stamford,Fairfield Zone A,False,True,True,House,2,4,3450,1962
+"652 Holder Mews, Norwalk, CT",652 Holder Mews,Norwalk,CT,Black Rock,Fairfield Zone D,True,True,False,House,4,1,2257,1964
+"772 Morales Inlet, Norwalk, CT",772 Morales Inlet,Norwalk,CT,Downtown Stamford,Fairfield Zone A,False,True,False,Apartment,1,2,707,1959
+"566 Dalton Expressway, Stamford, CT",566 Dalton Expressway,Stamford,CT,Downtown Stamford,Fairfield Zone A,True,False,False,House,3,4,915,2000
+"678 Aaron Lakes, Stamford, CT",678 Aaron Lakes,Stamford,CT,Westville,New Haven Zone B,False,True,False,Condo,3,2,3008,1951
+"691 Katherine Ports, Stamford, CT",691 Katherine Ports,Stamford,CT,South Norwalk,Fairfield Zone C,True,True,False,Condo,2,2,3825,1969
+"380 Lauren Turnpike, Edgewater, NJ",380 Lauren Turnpike,Edgewater,NJ,The Waterfront,Hudson Zone B,True,False,False,Condo,5,1,942,1994
+"397 Yolanda Branch, Edgewater, NJ",397 Yolanda Branch,Edgewater,NJ,Edgewater Riverside,Bergen Zone B,False,True,False,House,3,2,3535,1937
+"418 Brown Pike, Edgewater, NJ",418 Brown Pike,Edgewater,NJ,The Waterfront,Hudson Zone B,True,False,False,House,1,1,2300,2001
+"461 Betty Road, Edgewater, NJ",461 Betty Road,Edgewater,NJ,The Waterfront,Hudson Zone B,False,False,True,Apartment,2,4,2139,1943
+"499 Herrera Gateway, Edgewater, NJ",499 Herrera Gateway,Edgewater,NJ,The Waterfront,Hudson Zone B,True,True,True,Condo,1,1,2217,1994
+"431 William Plaza, Fort Lee, NJ",431 William Plaza,Fort Lee,NJ,Downtown Jersey City,Hudson Zone A,True,True,True,Condo,4,2,1331,1929
+"459 Anderson Prairie, Fort Lee, NJ",459 Anderson Prairie,Fort Lee,NJ,Downtown Jersey City,Hudson Zone A,True,True,True,Condo,2,2,2117,1961
+"351 Moreno Terrace, Hoboken, NJ",351 Moreno Terrace,Hoboken,NJ,Edgewater Riverside,Bergen Zone B,False,True,True,Townhouse,4,3,1899,2020
+"354 Pamela Heights, Hoboken, NJ",354 Pamela Heights,Hoboken,NJ,Hoboken South,Hudson Zone C,True,False,False,Townhouse,5,3,3862,2018
+"410 Stephanie Pike, Hoboken, NJ",410 Stephanie Pike,Hoboken,NJ,Downtown Jersey City,Hudson Zone A,True,False,False,Townhouse,3,3,3745,1956
+"428 Contreras Roads, Hoboken, NJ",428 Contreras Roads,Hoboken,NJ,Edgewater Riverside,Bergen Zone B,True,True,True,Condo,2,1,3521,1997
+"444 Ryan Dale, Hoboken, NJ",444 Ryan Dale,Hoboken,NJ,Ironbound,Essex Zone A,True,False,False,House,5,3,3236,1935
+"446 Tammie Path, Hoboken, NJ",446 Tammie Path,Hoboken,NJ,The Waterfront,Hudson Zone B,True,False,False,House,2,1,3407,1928
+"448 Palmer Shores, Hoboken, NJ",448 Palmer Shores,Hoboken,NJ,The Waterfront,Hudson Zone B,True,True,False,Townhouse,5,4,2864,2010
+"473 Carolyn Avenue, Hoboken, NJ",473 Carolyn Avenue,Hoboken,NJ,Hoboken South,Hudson Zone C,True,True,False,House,2,1,760,2020
+"528 Jose Radial, Hoboken, NJ",528 Jose Radial,Hoboken,NJ,Hoboken South,Hudson Zone C,True,True,True,Townhouse,4,4,4044,1935
+"533 Harding Estates, Hoboken, NJ",533 Harding Estates,Hoboken,NJ,Edgewater Riverside,Bergen Zone B,False,True,True,Condo,1,3,979,1984
+"544 Martin Hills, Hoboken, NJ",544 Martin Hills,Hoboken,NJ,Hoboken South,Hudson Zone C,False,True,False,Condo,4,3,1506,1982
+"558 Williamson Grove, Hoboken, NJ",558 Williamson Grove,Hoboken,NJ,Fort Lee Central,Bergen Zone A,False,True,True,Condo,1,3,1464,1940
+"366 Williams Key, Jersey City, NJ",366 Williams Key,Jersey City,NJ,The Waterfront,Hudson Zone B,True,True,True,Apartment,0,3,2808,1937
+"369 Jones Meadows, Jersey City, NJ",369 Jones Meadows,Jersey City,NJ,Fort Lee Central,Bergen Zone A,False,True,False,Townhouse,2,1,1472,2015
+"383 Justin Vista, Jersey City, NJ",383 Justin Vista,Jersey City,NJ,Ironbound,Essex Zone A,True,True,True,Commercial,0,4,2086,2009
+"489 Stuart Drives, Jersey City, NJ",489 Stuart Drives,Jersey City,NJ,Hoboken South,Hudson Zone C,True,False,True,House,1,1,2622,1938
+"510 Jackson Orchard, Jersey City, NJ",510 Jackson Orchard,Jersey City,NJ,The Waterfront,Hudson Zone B,True,False,False,House,2,4,3680,1936
+"550 Mccarthy Place, Jersey City, NJ",550 Mccarthy Place,Jersey City,NJ,The Waterfront,Hudson Zone B,False,False,False,House,1,1,2069,1924
+"385 Loretta Flats, Newark, NJ",385 Loretta Flats,Newark,NJ,Hoboken South,Hudson Zone C,True,True,True,Apartment,3,1,1358,2011
+"433 Hannah Circles, Newark, NJ",433 Hannah Circles,Newark,NJ,Hoboken South,Hudson Zone C,True,False,True,Apartment,1,1,3360,2011
+"483 Bradley Groves, Newark, NJ",483 Bradley Groves,Newark,NJ,Edgewater Riverside,Bergen Zone B,True,True,False,Townhouse,3,4,1320,1959
+"485 Schroeder Ramp, Newark, NJ",485 Schroeder Ramp,Newark,NJ,Downtown Jersey City,Hudson Zone A,False,False,False,Townhouse,4,1,3694,1942
+"516 Beverly Port, Newark, NJ",516 Beverly Port,Newark,NJ,Ironbound,Essex Zone A,True,False,True,Apartment,2,3,3094,1984
+"123 Mays Parks, Bronx, NY",123 Mays Parks,Bronx,NY,Park Slope,District 15,False,True,False,Condo,2,1,2067,2000
+"168 Lewis Isle, Bronx, NY",168 Lewis Isle,Bronx,NY,Park Slope,District 15,True,True,False,Condo,5,3,2549,1923
+"251 Jackson Key, Bronx, NY",251 Jackson Key,Bronx,NY,Long Island City,District 30,True,False,False,Condo,2,3,1955,1983
+"290 Charles Road, Bronx, NY",290 Charles Road,Bronx,NY,Long Island City,District 30,True,True,True,Townhouse,2,1,1675,1965
+"138 Martin Lane, Brooklyn, NY",138 Martin Lane,Brooklyn,NY,Upper West Side,District 3,True,False,True,Townhouse,1,4,2010,1940
+"144 Bell Avenue, Brooklyn, NY",144 Bell Avenue,Brooklyn,NY,Riverdale,District 10,True,True,True,Townhouse,4,4,558,1977
+"171 Harper Center, Brooklyn, NY",171 Harper Center,Brooklyn,NY,Riverdale,District 10,True,True,True,Condo,4,1,2736,1937
+"180 Timothy Spring, Brooklyn, NY",180 Timothy Spring,Brooklyn,NY,Astoria,District 30,True,True,False,Apartment,2,1,3360,1930
+"200 Carol Rapid, Brooklyn, NY",200 Carol Rapid,Brooklyn,NY,Williamsburg,District 14,False,True,False,Commercial,0,1,1333,2015
+"314 Sawyer Common, Brooklyn, NY",314 Sawyer Common,Brooklyn,NY,Riverdale,District 10,True,False,True,Condo,2,1,2743,2007
+"326 Amy Greens, Brooklyn, NY",326 Amy Greens,Brooklyn,NY,Astoria,District 30,True,True,True,Apartment,2,4,1795,1969
+"338 Clark Mountains, Brooklyn, NY",338 Clark Mountains,Brooklyn,NY,Long Island City,District 30,False,False,False,Condo,5,2,2302,1958
+"111 Bryan Street, Long Island City, NY",111 Bryan Street,Long Island City,NY,Williamsburg,District 14,False,True,False,Apartment,3,3,2170,1958
+"154 Wolfe Mission, Long Island City, NY",154 Wolfe Mission,Long Island City,NY,Astoria,District 30,False,True,False,Townhouse,1,3,776,2022
+"187 Herbert Ridges, Long Island City, NY",187 Herbert Ridges,Long Island City,NY,Upper West Side,District 3,True,True,False,Apartment,3,1,2582,1960
+"212 Jenny Brooks, Long Island City, NY",212 Jenny Brooks,Long Island City,NY,Astoria,District 30,True,True,False,House,4,4,2054,1999
+"233 Christy Dale, Long Island City, NY",233 Christy Dale,Long Island City,NY,Upper West Side,District 3,True,True,True,Condo,2,3,3129,1953
+"248 Singh Plains, Long Island City, NY",248 Singh Plains,Long Island City,NY,Upper West Side,District 3,False,True,False,Townhouse,2,4,3216,2003
+"260 Scott Isle, Long Island City, NY",260 Scott Isle,Long Island City,NY,Park Slope,District 15,True,True,False,House,5,4,1732,1990
+"278 Troy Village, Long Island City, NY",278 Troy Village,Long Island City,NY,Upper West Side,District 3,True,True,True,Apartment,2,3,824,1996
+"294 Vanessa Divide, Long Island City, NY",294 Vanessa Divide,Long Island City,NY,Riverdale,District 10,False,True,True,Townhouse,5,3,525,2011
+"322 Kristen Rapids, Long Island City, NY",322 Kristen Rapids,Long Island City,NY,Williamsburg,District 14,False,True,False,Apartment,1,3,2433,1936
+"129 Stephanie Union, New York, NY",129 Stephanie Union,New York,NY,Williamsburg,District 14,True,True,True,Townhouse,5,4,2103,1942
+"245 Cassie Fort, New York, NY",245 Cassie Fort,New York,NY,Long Island City,District 30,True,False,False,Condo,3,1,1099,1999
+"268 Amy Lakes, New York, NY",268 Amy Lakes,New York,NY,Astoria,District 30,True,False,True,Condo,4,3,2105,1934
+"307 Candice Center, New York, NY",307 Candice Center,New York,NY,Williamsburg,District 14,True,False,False,Condo,1,1,1558,1993
+"336 Kenneth Way, New York, NY",336 Kenneth Way,New York,NY,Astoria,District 30,True,True,True,House,3,2,801,1944
+"100 Anthony Field, Queens, NY",100 Anthony Field,Queens,NY,Long Island City,District 30,True,True,False,Condo,4,1,2474,1941
+"158 Julia Street, Queens, NY",158 Julia Street,Queens,NY,Upper West Side,District 3,True,True,True,Condo,4,4,1291,2012
+"222 Kim Union, Queens, NY",222 Kim Union,Queens,NY,Williamsburg,District 14,True,True,False,Apartment,1,2,1618,2001
