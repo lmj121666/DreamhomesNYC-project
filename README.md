@@ -12,7 +12,7 @@ This project aims to develop a data management solution for a real estate busine
   SQL file defining the database schema.
 
 - **data_generator.ipynb**  
-  Notebook used to generate the synthetic data.
+  [Notebook](https://github.com/lmj121666/DreamhomesNYC-project/blob/029b8d9d529cd6b44cc405ae1db8701ddbdc7ef4/data_generator.ipynb) used to generate the synthetic data.
 
 - **dreamhomes_raw_csv_v2 folder**  
   Raw synthetic data generated using `data_generator.ipynb`.
