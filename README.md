@@ -18,7 +18,7 @@ This project aims to develop a data management solution for a real estate busine
   Raw synthetic data generated using `data_generator.ipynb`.
 
 - **etl_load_to_postgres.ipynb**  
-  Notebook used to transform and load raw data into the database, which is defined using `SCHEMA.sql`.
+  [Notebook](https://github.com/lmj121666/DreamhomesNYC-project/blob/8743ed4d02052afe3642d193bb1f591723bb9ea0/etl_load_to_postgres.ipynb) used to transform and load raw data into the database, which is defined using `SCHEMA.sql`.
 
 - **processed_data folder**  
   Structured data loaded into SQL tables using `etl_load_to_postgres.ipynb`.
