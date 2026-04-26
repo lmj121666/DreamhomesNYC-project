@@ -1,6 +1,13 @@
 # Dream Homes NYC Database Design Project
 ## 5310 - SQL Final Project (2026 Winter)
 
+## Team Members
+
+- **April Liu** — ql2578@columbia.edu  
+- **Mengjie Liu** — ml5384@columbia.edu  
+- **Chun-Wei Hsu** — ch4004@columbia.edu  
+- **Zhenyuan Wei** — zw3152@columbia.edu  
+
 This project aims to develop a data management solution for a real estate business operating in the Tri-State area (NY, NJ, CT).
 
 ## Repository Contents
@@ -21,4 +28,4 @@ This project aims to develop a data management solution for a real estate busine
   [Notebook](https://github.com/lmj121666/DreamhomesNYC-project/blob/8743ed4d02052afe3642d193bb1f591723bb9ea0/etl_load_to_postgres.ipynb) used to transform and load raw data into the database, which is defined using `SCHEMA.sql`.
 
 - **processed_data folder**  
-  Structured data loaded into SQL tables using `etl_load_to_postgres.ipynb`.
+  Structured [data](https://github.com/lmj121666/DreamhomesNYC-project/tree/8e722a40a344aedd4379319d41a3824c191fda25/data/processed_data) loaded into SQL tables using `etl_load_to_postgres.ipynb`.
