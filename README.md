@@ -9,7 +9,7 @@ This project aims to develop a data management solution for a real estate busine
   [Entity-relationship diagram](https://github.com/lmj121666/DreamhomesNYC-project/blob/e8ddabe9530a5b281540aed7b41c409f8f5c1abf/ER-diagram.pdf) of the database schema.
 
 - **SCHEMA.sql**  
-  SQL file defining the database schema.
+  [SQL file](https://github.com/lmj121666/DreamhomesNYC-project/blob/ec43e490e1d42890b79ebd051ee0b0354857db38/etl_load_to_postgres.ipynb) defining the database schema.
 
 - **data_generator.ipynb**  
   [Notebook](https://github.com/lmj121666/DreamhomesNYC-project/blob/029b8d9d529cd6b44cc405ae1db8701ddbdc7ef4/data_generator.ipynb) used to generate the synthetic data.
