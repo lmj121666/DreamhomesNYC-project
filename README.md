@@ -29,3 +29,6 @@ This project aims to develop a data management solution for a real estate busine
 
 - **processed_data folder**  
   Structured [data](https://github.com/lmj121666/DreamhomesNYC-project/tree/8e722a40a344aedd4379319d41a3824c191fda25/data/processed_data) loaded into SQL tables using `etl_load_to_postgres.ipynb`.
+
+- **SQL Queries folder**
+    [SQL Queries](https://github.com/lmj121666/DreamhomesNYC-project/tree/main/SQL%20Queries) containing SQL query files used for data analysis and retrieval from the database.
