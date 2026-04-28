@@ -1,5 +1,5 @@
 # Dream Homes NYC Database Design Project
-## 5310 - SQL Final Project (2026 Winter)
+## 5310 - SQL Final Project (2026 Spring)
 
 ## Team Members
 
